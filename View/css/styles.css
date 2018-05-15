@@ -1,0 +1,70 @@
+
+.price-cheap {
+    font-size: 20px;
+    color: red;
+}
+#cupon {
+    display: none;
+    text-align: center;
+    color: white;
+    background-color: #3366CC;
+}
+
+#price-list-ul {
+    padding: 5px;
+    margin-left: 0;
+    padding-left: 0;
+}
+#price-list-ul li{
+    padding: 5px;
+    list-style-type: none;
+}
+.template-name {
+    margin-bottom: 20px;
+}
+.message {
+    font-size: 20px;
+    color: red;
+}
+.price-span {
+    margin-right: 10px;
+    font-size: 17px;
+}
+.price-name {
+    margin-right: 30px;
+}
+.add-filed-block {
+    margin-bottom: 20px;
+}
+
+.main-image {
+    float: left;
+    margin: 10px 40px 20px 0px;
+}
+.main-image-text {
+    margin: 60px 0 0 0;
+}
+.main-image-text ul {
+    padding-bottom: 20px;
+}
+.main-image-text {
+    font-size: 20px;
+}
+.main-image-text a {
+    font-size: 25px;
+}
+.main-text {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.login-register {
+    width: 300px;
+    margin: 100px auto;
+
+}
+.price-list-ul {
+    list-style: none;
+}
+.clear {
+    clear: both;
+}
