@@ -40,7 +40,7 @@
                 </div>
             </li>
             <li>
-                <p>Fields are required to indicate their numbers in the incoming price</p>
+                <p>Fields are required to indicate their order in the incoming price</p>
                 <div class="text-center">
                     <img src="/files/show/Pricer6" class="img-responsive" alt="...">
                 </div>
